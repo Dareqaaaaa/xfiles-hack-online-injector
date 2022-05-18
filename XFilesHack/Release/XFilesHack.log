@@ -1,0 +1,33 @@
+﻿Build started 04/05/2016 13:24:36.
+     1>Project "D:\GameHack\Base & Tools\Base\VS2010\XFilesHack\XFilesHack\XFilesHack.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\XFilesHack.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _MBCS /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\XFilesHack.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt XFilesHack.cpp /clr:nostdlib 
+         XFilesHack.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _MBCS /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\FahmyXFiles\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\GameHack\Base & Tools\Base\VS2010\XFilesHack\Release\XFilesHack.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\XFilesHack.Form1.resources /ASSEMBLYRESOURCE:Release\XFilesHack.FormLogin.resources /ASSEMBLYRESOURCE:Release\XFilesHack.FormSelectGame.resources /ASSEMBLYRESOURCE:Release\XFilesHack.FormUpdate.resources /MANIFEST /ManifestFile:"Release\XFilesHack.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\GameHack\Base & Tools\Base\VS2010\XFilesHack\Release\XFilesHack.pdb" /MAP /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Release\app.res
+         Release\AssemblyInfo.obj
+         Release\stdafx.obj
+         Release\XFilesHack.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         XFilesHack.vcxproj -> D:\GameHack\Base & Tools\Base\VS2010\XFilesHack\Release\XFilesHack.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\GameHack\Base & Tools\Base\VS2010\XFilesHack\Release\XFilesHack.exe;#1" /manifest Release\XFilesHack.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\XFilesHack.unsuccessfulbuild".
+         Touching "Release\XFilesHack.lastbuildstate".
+     1>Done Building Project "D:\GameHack\Base & Tools\Base\VS2010\XFilesHack\XFilesHack\XFilesHack.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.00
